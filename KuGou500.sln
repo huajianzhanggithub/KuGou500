@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KuGou500", "KuGou500\KuGou500.pyproj", "{36B47B38-90F9-46B3-BD9F-3C8098D6BF4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36B47B38-90F9-46B3-BD9F-3C8098D6BF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B47B38-90F9-46B3-BD9F-3C8098D6BF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B85E4C48-79F2-4D15-AB2E-0FCD9DBA670F}
+	EndGlobalSection
+EndGlobal
